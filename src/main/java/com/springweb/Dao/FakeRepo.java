@@ -40,4 +40,9 @@ public class FakeRepo implements FakeRepoInterface
     {
         this.user.remove(id);
     }
+
+    public void insertUser(String name, String surname)
+    {
+        user.put(user1.getId(), (User) user);
+    }
 }

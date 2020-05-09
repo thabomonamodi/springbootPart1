@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="335cee58-3926-4098-98a5-2c508c9bca9d" name="Default Changelist" comment="" />
+    <list default="true" id="335cee58-3926-4098-98a5-2c508c9bca9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springweb/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springweb/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springweb/Service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springweb/Dao/FakeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springweb/Dao/FakeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springweb/Dao/FakeRepoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springweb/Dao/FakeRepoInterface.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bcygAtK0udgxTpP5WufJn4Iltt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,10 +60,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="402" y="11" key="#SpringBoot/0.0.1366.768@0.0.1366.768" timestamp="1588946015481" />
-    <state x="829" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1589053921396">
+    <state x="829" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1589061651620">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="829" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1589053921396" />
+    <state x="829" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1589061651620" />
     <state x="702" y="313" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589049930891">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
