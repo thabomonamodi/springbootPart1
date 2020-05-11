@@ -1,10 +1,12 @@
 package com.springweb.Dao;
 
 import com.springweb.Model.User;
+import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;
 import java.util.Map;
 
+@Repository
 public class FakeRepo implements FakeRepoInterface
 {
     private static Map<Integer, User> user = new HashMap<Integer, User>();
@@ -22,20 +24,16 @@ public class FakeRepo implements FakeRepoInterface
         };
     }
 
-
-    @Override
     public void insertUser(int id, String name, String surname)
     {
         user.put(user1.getId(), (User) user);
     }
 
-    @Override
     public void findUserById(int id)
     {
         this.user.get(id);
     }
 
-    @Override
     public void deleteUser(int id)
     {
         this.user.remove(id);
